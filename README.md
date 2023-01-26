@@ -1,5 +1,7 @@
 # Juego Triqui realizado con React
 
+- [Juega aqui!](https://juega-triqui.netlify.app)
+
 ### Imagenes de muestra de la App
 <br>
 
